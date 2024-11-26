@@ -67,5 +67,5 @@
    - Держите ветки маленькими: Ограничьте область работы одной задачей или функцией.
    - Описательные имена для веток: Используйте понятные имена, например, feature/login-page или bugfix/login-error.
    - Часто сливайте изменения: Регулярно вносите изменения из ветки main или develop, чтобы оставаться в курсе изменений.
-   - Используйте Pull Requests: В командной разработке создавайте Pull Requests для обсуждения и ревью изменений.
-![Git Branch](https://example.com/path/to/git-branch-diagram.png)
+   - Используйте Pull Requests: В командной разработке создавайте Pull Requests для обсуждения и ревью изменений.![https://www.nobledesktop.com/image/gitresources/git-branches-merge.png]
+   - 
